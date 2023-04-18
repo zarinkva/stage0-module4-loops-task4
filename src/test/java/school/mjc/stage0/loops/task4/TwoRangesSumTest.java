@@ -3,6 +3,7 @@ package school.mjc.stage0.loops.task4;
 import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
+
 class TwoRangesSumTest extends BaseIOTest {
 
     @Test
